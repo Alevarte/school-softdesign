@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * Инициализирует тулбар
+     * Тулбар
      */
     private void setupToolbar() {
         setSupportActionBar(mActionBarToolbar);
